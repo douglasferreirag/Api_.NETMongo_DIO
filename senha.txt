@@ -1,0 +1,12 @@
+Senha:
+KWESdqRIl6TMNqoh
+
+
+Url com a senha
+
+mongodb+srv://api:KWESdqRIl6TMNqoh@cluster0.gqkgp.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
+
+modelo de url gerado
+mongodb+srv://api:<password>@cluster0.gqkgp.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
